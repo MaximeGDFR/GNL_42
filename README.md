@@ -43,15 +43,15 @@ int	main(void)
 ```
 Compilation:
 ```bash
-gcc main.c get_next_line.c get_next_line_utils.c
+gcc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c -o get_next_line
 ```
 ``BUFFER_SIZE`` can be specified at compilation to override the default ``BUFFER_SIZE``:
 ```bash
-gcc -D BUFFER_SIZE=42 main.c get_next_line.c get_next_line_utils.c
+gcc -Wall -Werror -Wextra -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.c -o get_next_line
 ```
 Execution:
 ```bash
-./a.out [file]
+./get_next_line [file]
 ```
 Output should show the entire contents of the given file.
 

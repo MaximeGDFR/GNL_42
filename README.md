@@ -12,9 +12,9 @@
 
 ## About
 
-The 42 school's get_next_line project is where we learn to read from a file descriptor, as well as the use of static variables.
+The 42 school's __get_next_line__ project is where we learn to read from a __file descriptor__, as well as the use of __static variables__.
 
-This function returns a single line from a given file descriptor. If called in a loop, get_next_line returns the entire contents of a file, line by line until it reaches the end of the file. It can be compiled specifying any buffer size.
+This function returns a single line from a given file descriptor. If called in a loop, get_next_line returns the entire contents of a file, __line by line until it reaches the end of the file__. It can be compiled specifying any buffer size.
 
 ## Usage
 This function is not a stand-alone program, its files must be included and compiled within another project.

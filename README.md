@@ -4,8 +4,6 @@
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true" width="200"/>
 </div>
 
-<h1 align="center">libft</h1>
-
 This repository contains all archives for the project __libft__ in the __42 School Le Havre__ common tree. It's a custom-made library of useful functions in __C language__. The repository includes the `Makefile` and the `libft.h` library.
 
 <h2 align="center">

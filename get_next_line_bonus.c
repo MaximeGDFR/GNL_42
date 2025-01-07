@@ -123,7 +123,7 @@ char	*get_next_line(int fd)
 	return (line);
 }
 
-int	main(void)
+/*int	main(void)
 {
 	int		fd1;
 	int		fd2;
@@ -151,4 +151,4 @@ int	main(void)
 	close(fd1);
 	close(fd2);
 	return (0);
-}
+}*/

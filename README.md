@@ -1,7 +1,7 @@
 # Get_next_line - 42 School Project
 
 <div id="header" align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/gnlm.png?raw=true" width="200"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true" width="200"/>
 </div>
 
 <h1 align="center">libft</h1>

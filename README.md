@@ -8,12 +8,6 @@
 	<a href="#about">About</a>
 	<span> · </span>
 	<a href="#usage">Usage</a>
-	<span> · </span>
-	<a href="#requirements">Requirements</a>
-	<span> · </span>
-	<a href="#instructions">Instructions</a>
-	<span> · </span>
-	<a href="#testing">Testing</a>
 </h2>
 
 ## About
